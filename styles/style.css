@@ -277,10 +277,58 @@
 }
 
 .about {
+  display: grid;
+  grid-template-columns: 359px 1fr;
   width: 1052px;
   height: 595px;
   margin: 0 24px 180px 24px;
+}
+
+.about__column {
+  margin-top:35px;
+}
+
+.about__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 240px;
+  height: 240px;
+  margin-left: 47px;
+  border-radius: 50%;
+  background-color: black;
   
+}
+
+.about__logo-image {
+  width: 148px;
+}
+
+.about__title {
+  margin-top: 103px;
+  margin-bottom: 106px;
+  color: #000000;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 100%;
+  letter-spacing: 0;
+  text-transform: uppercase;
+
+}
+
+.about__text {
+  margin-bottom: 20px;
+  color: #000000;
+  font-family: Raleway;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+.about__text:last_child {
+  margin-bottom: 0px;
 }
 
 .footer {
