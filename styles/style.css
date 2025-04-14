@@ -26,7 +26,7 @@
 }
 
 .header__link {
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
@@ -55,7 +55,7 @@
 .address {
   display: flex;
   flex-direction: column;
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
@@ -97,7 +97,7 @@
   flex-direction: column;
   width: 100%;
   color: #ffffff;
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 700;
   font-size: 100px;
   text-transform: uppercase;
@@ -138,7 +138,7 @@
 
 .cover__description-text {
   color: #ffffff;
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 400;
   font-size: 22px;
   line-height: 28px;
@@ -151,7 +151,7 @@
   border: 1px solid #ffffff;
   padding: 14px 32px;
   color: #ffffff;
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 500;
   font-size: 22px;
   line-height: 100%;
@@ -172,7 +172,7 @@
   margin-top: 5px;
   margin-bottom: auto;
   margin-left: 40px;
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 700;
   font-size: 40px;
   line-height: 100%;
@@ -204,7 +204,6 @@
 
 .card {
   position: relative;
-  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -231,7 +230,7 @@
   position: relative;
   z-index: 2;
   color: #ffffff;
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 700;
   font-size: 22px;
   line-height: 120%;
@@ -247,7 +246,7 @@
   position: relative;
   z-index: 2;
   color: #ffffff;
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 120%;
@@ -258,7 +257,7 @@
   margin-top: 32px;
   margin-left: 40px;
   color: #000000;
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 100%;
@@ -295,7 +294,7 @@
   margin-top: 103px;
   margin-bottom: 106px;
   color: #000000;
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 700;
   font-size: 40px;
   line-height: 100%;
@@ -306,7 +305,7 @@
 .about__text {
   margin-bottom: 20px;
   color: #000000;
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
@@ -344,7 +343,7 @@
 }
 
 .footer__menu-link {
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
@@ -353,7 +352,7 @@
 }
 
 .footer__menu-link_active {
-  font-family: Raleway, 'Segoe UI', Arial, sans-serif;
+  font-family: Raleway, "Segoe UI", Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
